@@ -45,6 +45,7 @@ sudo python3 ip_mac_changer.py -i [arayüz_adı] [seçenekler]
 - `-ip`, `--ipaddress` : Manuel IP adresi belirleme
 - `-r`, `--random` : Rastgele MAC ve IP adresi ata
 - `-d`, `--dhcp` : DHCP ile IP adresi belirleme
+-  `-R`, `--reset` : Orijinal ayarlara dön
 ---
 
 ### 📚 Kullanım Örnekleri:
